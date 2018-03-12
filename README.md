@@ -1,0 +1,3 @@
+# Java-Estimates-bicycle-speed
+
+Java console application that estimates bicycle speed.  Use a validation loop to prompt for and get from the user the wheel diameter of a bicycle in inches in the range 10.-50.  Then use a validation loop to prompt for and get from the user the number of rotations the bike wheel makes per pedal rotation in the range 0.1-10.  Then use a validation loop to prompt for and get from the user the number of pedal rotations per minute in the range 1-120.  Format the following output in two columns with the first column containing a label and the second column containing the result.  Format any real numbers to three decimal places.
